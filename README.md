@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss](https://pngtree.com/freebackground/modern-double-color-futuristic-neon-background_1181573.html))](https://codegrills.in)
+[![MasterHead](https://pngtree.com/freebackground/modern-double-color-futuristic-neon-background_1181573.html)](https://codegrills.in)
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
