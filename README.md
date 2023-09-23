@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1200" height="200" src="https://photos.app.goo.gl/CcbqYXLbaEXVst3z6">
+<img align="right" alt="Coding" width="1200" height="200" src="">
 
 
 # 💫 About Me:
