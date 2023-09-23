@@ -1,4 +1,4 @@
-[![MasterHead](https://pngtree.com/freebackground/modern-double-color-futuristic-neon-background_1181573.html)](https://pngtree.com/freebackground/modern-double-color-futuristic-neon-background_1181573.html)
+<img src="https://raw.githubusercontent.com/ianlenehan-demo/ianlenehan-demo/master/Github banner.png" alt="banner that says Ian Lenehan - frontend developer">
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
